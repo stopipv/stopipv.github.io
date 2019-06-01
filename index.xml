@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IPV Tech Research</title>
+    <link>https://www.ipvtechresearch.org/</link>
+    <description>Recent content on IPV Tech Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 12:06:53 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.ipvtechresearch.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>View Full Apple iOS App Purchase History</title>
+      <link>https://www.ipvtechresearch.org/post/guides/apple/</link>
+      <pubDate>Thu, 27 Sep 2018 12:06:53 -0400</pubDate>
+      
+      <guid>https://www.ipvtechresearch.org/post/guides/apple/</guid>
+      <description>How to View iOS App Purchase History (including hidden purchases) To unhide hidden iOS app purchases made with your Apple ID, you will need to use the desktop iTunes application available on either macOS or Windows.
+Launch the iTunes application and login to your account using the same Apple ID you use on your iOS devices.
+Then, under the &amp;ldquo;Account&amp;rdquo; tab, click &amp;ldquo;View My Account&amp;rdquo;.
+Now on your account information page, navigate to &amp;ldquo;iTunes in the Cloud&amp;rdquo; and click &amp;ldquo;Manage&amp;rdquo; on your hidden purchases.</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://www.ipvtechresearch.org/resources/</link>
+      <pubDate>Tue, 05 Jun 2018 13:07:47 -0400</pubDate>
+      
+      <guid>https://www.ipvtechresearch.org/resources/</guid>
+      <description>The tools we create are released as open source software:
+ IPS App Mobile Device Scanner  Please direct general inquiries or requests for data to hello@ipvtechresearch.org. We don&amp;rsquo;t publicly supply dependent datasets by default.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.ipvtechresearch.org/about/</link>
+      <pubDate>Thu, 17 May 2018 19:29:39 -0400</pubDate>
+      
+      <guid>https://www.ipvtechresearch.org/about/</guid>
+      <description>Intimate Partner Violence (IPV) is a pervasive societal problem, affecting roughly one third of all women and one quarter of all men. It can ruin lives and, in an unsettlingly high fraction of cases, culminate in murder of the victim. Although digital technologies play an increasingly pivotal role in IPV and directly affect victim safety and well-being, there has been very little research that examines the use of technology in IPV and investigates the development of new tools, techniques, and theories to combat technology-enabled IPV, and we currently face a surfeit of important open questions.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://www.ipvtechresearch.org/publications/</link>
+      <pubDate>Wed, 16 May 2018 14:25:44 -0400</pubDate>
+      
+      <guid>https://www.ipvtechresearch.org/publications/</guid>
+      <description>Sam Havron*, Diana Freed*, Rahul Chatterjee, Damon McCoy, Nicola Dell, and Thomas Ristenpart.
+&amp;ldquo;Clinical Computer Security for Victims of Intimate Partner Violence.&amp;rdquo;
+28th USENIX Security Symposium (USENIX Security 2019) (to appear). Rahul Chatterjee, Periwinkle Doerfler, Hadas Orgad, Sam Havron, Jackeline Palmer, Diana Freed, Karen Levy, Nicola Dell, Damon McCoy, and Thomas Ristenpart.
+&amp;ldquo;The Spyware Used in Intimate Partner Violence.&amp;rdquo;
+IEEE Symposium on Security and Privacy (Oakland 2018). pdf. Media coverage: The New York Times, Vox, Freedom to Tinker (Princeton CITP).</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://www.ipvtechresearch.org/people/</link>
+      <pubDate>Wed, 16 May 2018 14:25:38 -0400</pubDate>
+      
+      <guid>https://www.ipvtechresearch.org/people/</guid>
+      <description>Faculty    Nicola Dell
+Cornell Tech
+ Karen Levy
+Cornell
+ Damon McCoy
+NYU
+ Tom Ristenpart
+Cornell Tech
+   
+PhD Students  Rahul Chatterjee
+Cornell Tech
+ Peri Doerfler
+NYU
+ Diana Freed
+Cornell Tech
+ Sam Havron
+Cornell Tech
+  
+Masters and Undergraduate Students  Andrea Gallardo
+Cornell Tech, Queens College
+ Emily Tseng
+Cornell Tech
+ Summer Chi
+Cornell Tech</description>
+    </item>
+    
+    <item>
+      <title>Partners</title>
+      <link>https://www.ipvtechresearch.org/partners/</link>
+      <pubDate>Wed, 16 May 2018 14:25:34 -0400</pubDate>
+      
+      <guid>https://www.ipvtechresearch.org/partners/</guid>
+      <description>We are fortunate to collaborate with a fantastic group of partners and partner organizations, including:
+    New York City Mayor&amp;rsquo;s Office to End Domestic and Gender-Based Violence (ENDGBV)
+  Symantec
+      National Network to End Domestic Violence (NNEDV)
+ Molly Dragiewicz
+Queensland University of Technology</description>
+    </item>
+    
+    <item>
+      <title>Funding</title>
+      <link>https://www.ipvtechresearch.org/funding/</link>
+      <pubDate>Wed, 16 May 2018 14:25:29 -0400</pubDate>
+      
+      <guid>https://www.ipvtechresearch.org/funding/</guid>
+      <description>We gratefully acknowledge the support that we have received to conduct this research.</description>
+    </item>
+    
+  </channel>
+</rss>
